@@ -10,5 +10,5 @@ San Eulogio de Córdoba (siglo IX) encomia las iglesias que fueron de Santa
 Leocadia, en Toledo y de San Félix en Córdoba.
 
 
-![hermita](img/HERMITA-DE-SAN-MIGUEL-5.jpg)
+
 
