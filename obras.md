@@ -5,3 +5,4 @@ La ermita de Santa María, situada en la localidad burgalesa de Quintanilla de l
 Viñas.
 
 
+![hermita](img/HERMITA-DE-SAN-MIGUEL-5.jpg)
